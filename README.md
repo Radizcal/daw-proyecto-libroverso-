@@ -1,6 +1,3 @@
-Prueba de force-push
-
-
 # Libroverso
 
 Aplicación web que fomenta el hábito de la lectura mediante
