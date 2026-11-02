@@ -1,4 +1,5 @@
-echo "Prueba de force-push" >> README.md
+git add README.md
+git commit -m "Prueba force-push"
 
 # Libroverso
 
