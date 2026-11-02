@@ -1,6 +1,3 @@
-git add README.md
-git commit -m "Prueba force-push"
-
 # Libroverso
 
 Aplicación web que fomenta el hábito de la lectura mediante
